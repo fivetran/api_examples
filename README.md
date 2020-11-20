@@ -21,7 +21,7 @@ These examples are designed as standalone scripts that act as examples for inter
 
 # Directory Contents
 
-## [Group Management](https://github.com/fivetran/sales-engineers/blob/master/resources/images/api-sync-connector-flow.png)
+## [Group Management](https://github.com/fivetran/api_examples/blob/master/resources/images/api-sync-connector-flow.png)
 
 These scripts are a subset of the available endpoints with the group management endpoints. They are some of the most frequently used endpoints, and will be used in getting `group_id`s and `connector_id`s for usage in the connector management scripts. 
 
