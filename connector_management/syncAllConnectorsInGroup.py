@@ -11,8 +11,8 @@ from requests.auth import HTTPBasicAuth
 # Enter Your API Credentials
 # Documentation: https://fivetran.com/docs/rest-api/getting-started
 
-api_key = "tGjbxqytFwBpI8Yb"
-api_secret = "XMJPvIcE0pi6Bjl72ymHN9aHD2Cy2ZE4"
+api_key = "Your Fivetran API Key"
+api_secret = "Your Fivetran API Secret"
 
 # Create Base64 Encoded Basic Auth Header
 auth = HTTPBasicAuth(api_key, api_secret)
